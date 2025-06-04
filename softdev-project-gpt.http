@@ -1,0 +1,6 @@
+@softdev_project_gpt_HostAddress = http://localhost:5197
+
+GET {{softdev_project_gpt_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
